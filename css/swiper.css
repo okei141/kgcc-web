@@ -1,0 +1,21 @@
+.banner .banner_main {
+    width: 100%;
+    margin-bottom: 6px;
+}
+
+.banner .thumbnail .swiper-slide {
+    cursor: pointer;
+    opacity: .6;
+}
+
+.banner .thumbnail .swiper-slide-active {
+    opacity: 1;
+}
+
+.banner .thumbnail .swiper-wrapper {
+    margin-left: calc(-37.5% - 5px);
+}
+
+.banner_container {
+    max-width: 100%;
+}
